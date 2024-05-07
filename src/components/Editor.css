@@ -1,0 +1,30 @@
+.box-1{
+    flex-grow: 1;
+    flex-basis: 00;
+    display: flex;
+    flex-direction: column;
+    padding: 0 4px 4px ;
+}
+.box-2{
+    display: flex;
+    background-color: #060606;
+    color: #AAAEBC;
+    justify-content: space-between;
+    font-weight: 700;
+}
+.box-3{
+    display: flex;
+    background-color: #1d1e22;
+    padding: 9px 12px;
+}
+.box-4{
+    display: flex;
+    height: 20px;
+    width: 20px;
+    /* background-color: rgb(41, 156, 237); */
+    place-content: center;
+    border-radius: 5px;
+    margin-right: 5px;
+    padding-bottom: 2px;
+    
+}
