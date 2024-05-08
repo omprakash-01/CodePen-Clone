@@ -6,7 +6,7 @@ import Terminal from './Terminal'
 function Home() {
   return (
     <>
-      <Header></Header>
+      <Header Title=" CodePen"></Header>
       <Code></Code>
       <Terminal></Terminal>
     </>
